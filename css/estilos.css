@@ -24,3 +24,7 @@ h2{
 .container a:hover{
     background-color: rgb(4, 40, 160);
 }
+
+.bg-gris{
+    background-color:  rgb(65, 65, 65);;
+}
